@@ -5,7 +5,7 @@
 
 # Activity 1: Build it by hand first
 # My first draft used integer-style division and gave wrong answers, it was
-# caught by testing a known value (100C should be 212F). Fixed version:
+# caught by testing a known value (100C should be 212F). Fixed version
 def celsius_to_fahrenheit(c):
     return c * 9 / 5 + 32
 
